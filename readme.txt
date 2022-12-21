@@ -5,5 +5,4 @@ Git tracks changes.
 Creating a new branch is quick.
 Creating a new branch is quick AND simple.
 today is 2022-1-27
-Creating a new branch is quick.
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
